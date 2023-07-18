@@ -37,7 +37,7 @@ function rot13(str) {
   return decodedStr;
 }
 
-
+// algorithm test cases
 rot13("SERR PBQR PNZC");
 rot13("SERR CVMMN!");
 rot13("SERR YBIR?");
